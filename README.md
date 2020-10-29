@@ -1,5 +1,5 @@
 
-# Image processing framework for learning OpenCV / EmugCV
+## Image processing framework for learning OpenCV / EmugCV
 
 Is done with EmugCV which  is a C# wrapper over C++ OpenCV.
 
